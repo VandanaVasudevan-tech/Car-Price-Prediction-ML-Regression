@@ -89,6 +89,7 @@ The tuned model showed better generalization and reduced overfitting.
 * Scikit-learn
 
 * Matplotlib
+* Numpy
 
 📈 Outcome
 
