@@ -84,7 +84,7 @@ The tuned model showed better generalization and reduced overfitting.
 
 * Pandas
 
-* NumPy
+* Seaborn
 
 * Scikit-learn
 
